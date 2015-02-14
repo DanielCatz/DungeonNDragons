@@ -1,0 +1,10 @@
+1,Mercenary Armor,E,B,X,L,images/merc-arm.png,1 ARMOR;
+4,Normal Ring,E,E,X,X,images/norm-ring.png,1 CHARISMA;1 ARMOR;
+6,Mace,W,A,O,X,images/mace.png,1 ATTACK;1 DAMAGE;
+7,Crossbow,W,B,X,X,images/xbow.png,1 ATTACK;1 DAMAGE;
+8,Staff,W,C,X,X,images/staff.png,1 ATTACK;1 DAMAGE;
+9,Wooden Bracers,E,G,X,X,images/wood-brcr.png,1 ARMOR;
+11,Silver Bracers,E,G,X,X,images/slvr-brcr.png,1 STRENGTH;1 ARMOR;
+12,Crossbow,W,B,X,X,images/xbow.png,1 ATTACK;1 DAMAGE;
+15,Wooden Shield,E,F,X,X,images/wood-shld.png,1 ARMOR;
+16,Strength Ring,E,E,X,X,images/str-ring.png,1 STRENGTH;1 CONSTITUTION;1 WISDOM;1 CHARISMA;1 ARMOR;

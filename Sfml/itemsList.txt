@@ -1,0 +1,65 @@
+- CONSUMABLES
+Health Potion,C,X,X,X,images/pot-hp.png,100 HP;
+Mana Potion,C,X,X,X,images/pot-mp.png,20 MP;
+Elixir,C,X,X,X,images/pot-elix.png,250 HP;50 MP;
+
+
+- WEAPONS
+Ragnarok,W,A,O,X,images/ragnarok.png,5 ATTACK;5 DAMAGE;
+Katana,W,A,O,X,images/katana.png,3 ATTACK;3 DAMAGE;
+Mace,W,A,O,X,images/mace.png,1 ATTACK;1 DAMAGE;
+Knight Sword,W,A,T,X,images/kgt-swd.png,3 ATTACK;3 DAMAGE;
+Magic Sword,W,A,T,X,images/magi-swd.png,3 ATTACK;3 DAMAGE;
+Holy Sword,W,A,T,X,images/holy-swd.png,3 ATTACK;3 DAMAGE;
+
+Fortune,W,C,X,X,images/fortune.png,3 ATTACK;3 DAMAGE;
+Heaven,W,C,X,X,images/heaven.png,5 ATTACK;5 DAMAGE;
+Staff,W,C,X,X,images/staff.png,1 ATTACK;1 DAMAGE;
+
+Laser Bow,W,B,X,X,images/lsr-bow,5 ATTACK;5 DAMAGE;
+Fire Crossbow,W,B,X,X,images/fire-xbow.png,3 ATTACK;3 DAMAGE;
+Crossbow,W,B,X,X,images/xbow.png,1 ATTACK;1 DAMAGE;
+
+
+- EQUIPMENT
+Mercenary Armor,E,B,X,L,images/merc-arm.png,1 ARMOR;
+Knight Armor,E,B,X,M,images/kgt-arm.png,1 ARMOR;
+Commander,E,B,X,H,images/cmdr.png,3 ARMOR;
+Dragon Armor,E,B,X,M,images/drg-arm.png,3 ARMOR;
+Defender,E,B,X,H,images/defender.png,5 ARMOR;
+Breast Plate,E,B,X,L,images/brst-plt,3 ARMOR;
+Holy Magic Armor,E,B,X,L,images/h-mag-arm.png,5 ARMOR;
+Cloak,E,B,X,C,images/cloak.png,1 ARMOR;
+Holy Cloak,E,B,X,C,images/holy-clk.png,3 ARMOR;
+Holy Dress,E,B,X,C,images/holy-drs.png,5 ARMOR;
+
+Beta,E,E,X,X,images/beta.png,2 ATTACK;2 CONSTITUTION;2 WISDOM;2 CHARISMA;5 ARMOR;
+Hero's Ring,E,E,X,X,images/hero-ring.png,1 ATTACK;1 CONSTITUTION;1 WISDOM;2 CHARISMA;4 ARMOR;
+Magic Ring,E,E,X,X,images/mag-ring.png,1 CONSTITUTION;1 WISDOM;1 CHARISMA;2 ARMOR;
+Normal Ring,E,E,X,X,images/norm-ring.png,1 CHARISMA;1 ARMOR;
+Strength Ring,E,E,X,X,images/str-ring.png,1 ATTACK;1 CONSTITUTION;1 CHARISMA;2 ARMOR;
+
+Dragon Shield,E,F,X,X,images/drg-shld.png,3 ARMOR;
+Wooden Shield,E,F,X,X,images/wood-shld.png,1 ARMOR;
+Metal Shield,E,F,X,X,images/met-shld.png,2 ARMOR;
+Titanium Shield,E,F,X,X,images/tit-shld.png,3 ARMOR;
+
+Leather Boots,E,D,X,X,images/l-bts.png,1 ARMOR;
+Sandals,E,D,X,X,images/sandals.png,2 ARMOR;
+Rubber Boots,E,D,X,X,images/rbr-bts.png,1 ARMOR;
+Dragon Boots,E,D,X,X,images/drg-bts.png,1 DEXTERITY; 3 ARMOR;
+
+Leather Belt,E,C,X,X,images/l-blt.png,1 CONSTITUTION;
+Sash,E,C,X,X,images/sash.png,1 ATTACK;2 CONSTITUTION;
+Mystic Belt,E,C,X,X,images/myst-blt.png,2 ATTACK;2 CONSTITUTION;
+Dragon Belt,E,C,X,X,images/drg-blt.png,3 ATTACK;3 CONSTITUTION;
+
+Pointed Hat,E,A,X,X,images/ptd-hat.png,1 WISDOM;1 INTELLIGENCE;1 ARMOR;
+Golden Laurel,E,A,X,X,images/gld-laur.png,1 WISDOM;1 INTELLIGENCE;2 ARMOR;
+Amber Circlet,E,A,X,X,images/amb-circ.png,2 WISDOM;2 INTELLIGENCE;2 ARMOR;
+Dragon Crown,E,A,X,X,images/drg-crn.png,3 WISDOM;3 INTELLIGENCE;3 ARMOR;
+
+Wooden Bracers,E,G,X,X,images/wood-brcr.png,1 ARMOR;
+Bronze Bracers,E,G,X,X,images/brnz-brcr.png,1 ARMOR;1 STRENGTH;
+Silver Bracers,E,G,X,X,images/slvr-brcr.png,2 ARMOR;2 STRENGTH;
+Gold Bracers,E,G,X,X,images/gold-brcr.png,3 ARMOR;3 STRENGTH;

@@ -1,0 +1,15 @@
+0,Knight Sword,W,A,T,X,images/kgt-swd.png,5 ATTACK;2 DAMAGE;
+1,Mercenary Armor,E,B,X,L,images/merc-arm.png,1 ARMOR;
+2,Fortune,W,C,X,X,images/fortune.png,5 ATTACK;5 DAMAGE;
+3,Pointed Hat,E,A,X,X,images/ptd-hat.png,1 WISDOM;2 INTELLIGENCE;1 ARMOR;
+4,Fortune,W,C,X,X,images/fortune.png,4 ATTACK;2 DAMAGE;
+5,Wooden Shield,E,F,X,X,images/wood-shld.png,1 ARMOR;
+6,Mace,W,A,O,X,images/mace.png,1 ATTACK;1 DAMAGE;
+7,Crossbow,W,B,X,X,images/xbow.png,1 ATTACK;1 DAMAGE;
+8,Staff,W,C,X,X,images/staff.png,1 ATTACK;1 DAMAGE;
+9,Wooden Bracers,E,G,X,X,images/wood-brcr.png,1 ARMOR;
+10,Knight Sword,W,A,T,X,images/kgt-swd.png,1 ATTACK;1 DAMAGE;
+11,Mercenary Armor,E,B,X,L,images/merc-arm.png,1 ARMOR;
+15,Crossbow,W,B,X,X,images/xbow.png,1 ATTACK;1 DAMAGE;
+17,Silver Bracers,E,G,X,X,images/slvr-brcr.png,1 STRENGTH;1 ARMOR;
+18,Commander,E,B,X,H,images/cmdr.png,1 ARMOR;

@@ -1,0 +1,36 @@
+Mercenary Armor,E,B,X,L,images/merc-arm.png
+Knight Armor,E,B,X,M,images/kgt-arm.png
+Commander,E,B,X,H,images/cmdr.png
+Dragon Armor,E,B,X,M,images/drg-arm.png
+Breast Plate,E,B,X,L,images/brst-plt.png
+Cloak,E,B,X,C,images/cloak.png
+Holy Cloak,E,B,X,C,images/holy-clk.png
+Hero's Ring,E,E,X,X,images/hero-ring.png
+Magic Ring,E,E,X,X,images/mag-ring.png
+Normal Ring,E,E,X,X,images/norm-ring.png
+Strength Ring,E,E,X,X,images/str-ring.png
+Wooden Shield,E,F,X,X,images/wood-shld.png
+Metal Shield,E,F,X,X,images/met-shld.png
+Titanium Shield,E,F,X,X,images/tit-shld.png
+Leather Boots,E,D,X,X,images/l-bts.png
+Sandals,E,D,X,X,images/sandals.png
+Rubber Boots,E,D,X,X,images/rbr-bts.png
+Leather Belt,E,C,X,X,images/l-blt.png
+Sash,E,C,X,X,images/sash.png
+Mystic Belt,E,C,X,X,images/myst-blt.png
+Pointed Hat,E,A,X,X,images/ptd-hat.png
+Golden Laurel,E,A,X,X,images/gld-laur.png
+Amber Circlet,E,A,X,X,images/amb-circ.png
+Katana,W,A,O,X,images/katana.png
+Mace,W,A,O,X,images/mace.png
+Fortune,W,C,X,X,images/fortune.png
+Staff,W,C,X,X,images/staff.png
+Fire Crossbow,W,B,X,X,images/fire-xbow.png
+Crossbow,W,B,X,X,images/xbow.png
+Knight Sword,W,A,T,X,images/kgt-swd.png
+Magic Sword,W,A,T,X,images/magi-swd.png
+Holy Sword,W,A,T,X,images/holy-swd.png
+Wooden Bracers,E,G,X,X,images/wood-brcr.png
+Bronze Bracers,E,G,X,X,images/brnz-brcr.png
+Silver Bracers,E,G,X,X,images/slvr-brcr.png
+Gold Bracers,E,G,X,X,images/gold-brcr.png

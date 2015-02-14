@@ -1,0 +1,8 @@
+0,Pointed Hat,E,A,X,X,images/ptd-hat.png,1 WISDOM;1 INTELLIGENCE;1 ARMOR;
+1,Normal Ring,E,E,X,X,images/norm-ring.png,1 CHARISMA;1 ARMOR;
+2,Bronze Bracers,E,G,X,X,images/brnz-brcr.png,1 STRENGTH;1 ARMOR;
+3,Dragon Armor,E,B,X,M,images/drg-arm.png,5 ARMOR;
+4,Magic Sword,W,A,T,X,images/magi-swd.png,1 ATTACK;1 DAMAGE;
+5,Wooden Shield,E,F,X,X,images/wood-shld.png,1 ARMOR;
+6,Leather Belt,E,C,X,X,images/l-blt.png,1 CONSTITUTION;
+7,Leather Boots,E,D,X,X,images/l-bts.png,1 ARMOR;
